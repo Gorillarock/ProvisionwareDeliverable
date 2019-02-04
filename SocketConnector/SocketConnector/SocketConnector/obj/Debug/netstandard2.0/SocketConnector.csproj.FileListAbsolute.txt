@@ -1,0 +1,9 @@
+C:\Users\jdsac\source\repos\ProvisionWare\SocketConnector\SocketConnector\SocketConnector\bin\Debug\netstandard2.0\SocketConnector.deps.json
+C:\Users\jdsac\source\repos\ProvisionWare\SocketConnector\SocketConnector\SocketConnector\bin\Debug\netstandard2.0\SocketConnector.dll
+C:\Users\jdsac\source\repos\ProvisionWare\SocketConnector\SocketConnector\SocketConnector\bin\Debug\netstandard2.0\SocketConnector.pdb
+C:\Users\jdsac\source\repos\ProvisionWare\SocketConnector\SocketConnector\SocketConnector\obj\Debug\netstandard2.0\SocketConnector.csproj.CoreCompileInputs.cache
+C:\Users\jdsac\source\repos\ProvisionWare\SocketConnector\SocketConnector\SocketConnector\obj\Debug\netstandard2.0\SocketConnector.AssemblyInfoInputs.cache
+C:\Users\jdsac\source\repos\ProvisionWare\SocketConnector\SocketConnector\SocketConnector\obj\Debug\netstandard2.0\SocketConnector.AssemblyInfo.cs
+C:\Users\jdsac\source\repos\ProvisionWare\SocketConnector\SocketConnector\SocketConnector\obj\Debug\netstandard2.0\SocketConnector.dll
+C:\Users\jdsac\source\repos\ProvisionWare\SocketConnector\SocketConnector\SocketConnector\obj\Debug\netstandard2.0\SocketConnector.pdb
+C:\Users\jdsac\source\repos\ProvisionWare\SocketConnector\SocketConnector\SocketConnector\obj\Debug\netstandard2.0\SocketConnector.csprojAssemblyReference.cache
